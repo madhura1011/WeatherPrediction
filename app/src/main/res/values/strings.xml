@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="_70f">70F</string>
+    <string name="night">Night</string>
+    <string name="evening">Evening</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="sun_aug_21_11_54_am_2022">Sun Aug 21 11:54 AM, 2022</string>
+    <string name="_73f">73F</string>
+    <string name="feels_like_73f">Feels like 73F</string>
+    <string name="partially_cloudy_25_clouds">Partially Cloudy(25%clouds)</string>
+    <string name="winds_ne_at_11_mph_gusting_to_10_mph">Winds: NE at 11 mph gusting to 10 mph</string>
+    <string name="humidity_82">Humidity: 82%</string>
+    <string name="uv_index_2">UV Index: 2</string>
+    <string name="visibility_2">Visibility: 2</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunday">Sunday</string>
+    <string name="_75f_65f">75F/65F</string>
+    <string name="textview">TextView</string>
+    <string name="_100_precip">(100% precip.)</string>
+    <string name="uv_index_8">UV Index: 8</string>
+    <string name="morning">Morning</string>
+</resources>
